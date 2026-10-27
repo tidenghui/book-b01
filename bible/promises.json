@@ -1,0 +1,194 @@
+[
+  {
+    "id": "g1-1",
+    "text": "木牌上“糖醋排骨”的捺与主角媳妇笔迹相同，老单对此反应异常。",
+    "plantedAt": 1,
+    "dueBy": 20,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g1-2",
+    "text": "老单说主角这号人见得多没一个成事，暗示主角命运或老单过往。",
+    "plantedAt": 1,
+    "dueBy": 15,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g2-1",
+    "text": "铃铛下一轮多押一个亡魂，陈勺若嘴碎外传，她就押两个嘴最紧的让没人动筷子。",
+    "plantedAt": 2,
+    "dueBy": 5,
+    "paidAt": 5,
+    "importance": 2
+  },
+  {
+    "id": "g2-2",
+    "text": "木牌正面与背面各有一道横的浅刻痕，同一刀刻穿，来历不明。",
+    "plantedAt": 2,
+    "dueBy": 20,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g3-1",
+    "text": "炎圭要陈勺想清楚拿什么跟他换，否则可能揭发陈勺看见他滴东西的事",
+    "plantedAt": 3,
+    "dueBy": 10,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g3-2",
+    "text": "老单对炎圭提到的上一届七轮全过的厨子反应异常，右手缩进袖子，暗示他知道内情",
+    "plantedAt": 3,
+    "dueBy": 15,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g4-1",
+    "text": "阿绣问主角“你以前是不是给我做过饭”，主角未答，此问悬置。",
+    "plantedAt": 4,
+    "dueBy": 10,
+    "paidAt": 10,
+    "importance": 2
+  },
+  {
+    "id": "g4-2",
+    "text": "老单说“三天”，三天后要发生什么未明。",
+    "plantedAt": 4,
+    "dueBy": 7,
+    "paidAt": 7,
+    "importance": 2
+  },
+  {
+    "id": "g5-1",
+    "text": "老单交出第七十一届铜钥匙，主角揣进怀里，钥匙的来历和用途未明。",
+    "plantedAt": 5,
+    "dueBy": 15,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g5-2",
+    "text": "主角承诺下一轮不管失掉哪样味觉，都要让老单再尝一口自己做的菜，把“有味儿”三个字逼出来。",
+    "plantedAt": 5,
+    "dueBy": 10,
+    "paidAt": 10,
+    "importance": 2
+  },
+  {
+    "id": "g6-1",
+    "text": "铃铛不肯说穿蓝布围裙的是谁通的，只说“我不说谁通的”，此问悬置。",
+    "plantedAt": 6,
+    "dueBy": 12,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g6-2",
+    "text": "铃铛提醒陈勺下轮抽签之前把灶上的刀都磨一遍，剁骨刀卷刃了。",
+    "plantedAt": 6,
+    "dueBy": 7,
+    "paidAt": 7,
+    "importance": 1
+  },
+  {
+    "id": "g7-1",
+    "text": "炎圭师父也有一把一模一样的铜钥匙，来历和‘七一轮’的含义未明。",
+    "plantedAt": 7,
+    "dueBy": 15,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g7-2",
+    "text": "炎圭要捞的人是谁未明，陈勺要捞的是‘一个欠我一顿饭的人’。",
+    "plantedAt": 7,
+    "dueBy": 12,
+    "paidAt": 12,
+    "importance": 2
+  },
+  {
+    "id": "g8-1",
+    "text": "主角跨出界石去枉死城问话，弃赛后果未卜，能否赶回上灶未明。",
+    "plantedAt": 8,
+    "dueBy": 10,
+    "paidAt": 9,
+    "importance": 3
+  },
+  {
+    "id": "g8-2",
+    "text": "矮门楼门洞里咳嗽的人是谁，主角能否进去问到话。",
+    "plantedAt": 8,
+    "dueBy": 10,
+    "paidAt": 9,
+    "importance": 2
+  },
+  {
+    "id": "g9-1",
+    "text": "炎圭被拖走时对陈勺说“你赢了，替我……”，后半句未说完，他要陈勺替他做什么未明。",
+    "plantedAt": 9,
+    "dueBy": 12,
+    "paidAt": 12,
+    "importance": 2
+  },
+  {
+    "id": "g9-2",
+    "text": "阎王惊堂木停在半空，左手抽出后看着自己的手又看陈勺，嘴唇动了动，他要说什么或做什么未明。",
+    "plantedAt": 9,
+    "dueBy": 11,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g10-1",
+    "text": "炎圭要陈勺替他看看还阳令长什么样。",
+    "plantedAt": 10,
+    "dueBy": 15,
+    "paidAt": 12,
+    "importance": 2
+  },
+  {
+    "id": "g10-2",
+    "text": "炎圭说阿绣第三轮那盘他尝过一口，尝出的味与陈勺不同，原因未明。",
+    "plantedAt": 10,
+    "dueBy": 15,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g11-1",
+    "text": "凳子上凭空出现又消失的阿绣毛衣和针线，来历不明",
+    "plantedAt": 11,
+    "dueBy": 16,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g11-2",
+    "text": "蓝边碗里凭空多出最后一块排骨，谁放的未明",
+    "plantedAt": 11,
+    "dueBy": 16,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g12-1",
+    "text": "老单说那碟糖醋排骨缺的那一味不在锅里，究竟缺什么、在哪里，未明。",
+    "plantedAt": 12,
+    "dueBy": 18,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g12-2",
+    "text": "炎圭托铃铛捎来一小块猪油，来历不明，只说替他看看还阳令长什么样。",
+    "plantedAt": 12,
+    "dueBy": 17,
+    "paidAt": null,
+    "importance": 2
+  }
+]

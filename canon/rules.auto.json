@@ -1,0 +1,59 @@
+[
+  {
+    "who": "chenshao",
+    "aliases": [
+      "陈勺"
+    ],
+    "cannotSay": [
+      "铃铛多押一个亡魂的事"
+    ],
+    "why": "铃铛威胁若嘴碎就押两个嘴最紧的亡魂，让他做出来没人动筷子",
+    "sinceChapter": 2
+  },
+  {
+    "who": "厨子",
+    "aliases": [
+      "主角"
+    ],
+    "cannotSay": [
+      "看名单"
+    ],
+    "why": "厨子看一眼名单这轮就废了，秤不平",
+    "sinceChapter": 4
+  },
+  {
+    "who": "铃铛",
+    "aliases": [
+      "铃铛"
+    ],
+    "cannotSay": [
+      "名单上谁通的",
+      "穿蓝布围裙的是谁通的"
+    ],
+    "why": "说了要挨板子",
+    "sinceChapter": 6
+  },
+  {
+    "who": "铃铛",
+    "aliases": [
+      "铃铛"
+    ],
+    "cannotSay": [
+      "谁给穿蓝布围裙的通的信"
+    ],
+    "why": "铃铛说‘我不说谁通的’，嘴闭紧",
+    "sinceChapter": 7
+  },
+  {
+    "who": "lingdang",
+    "aliases": [
+      "铃铛"
+    ],
+    "cannotSay": [
+      "名单上谁通谁不通",
+      "阿绣在不在名单上"
+    ],
+    "why": "名单已定，不能透露",
+    "sinceChapter": 8
+  }
+]

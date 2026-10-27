@@ -1,0 +1,231 @@
+[
+  {
+    "key": "剩余天数",
+    "value": "6",
+    "unit": "天",
+    "fromChapter": 1
+  },
+  {
+    "key": "黄泉盐",
+    "value": "一包",
+    "unit": "包",
+    "fromChapter": 1
+  },
+  {
+    "key": "米",
+    "value": "半袋",
+    "unit": "袋",
+    "fromChapter": 1
+  },
+  {
+    "key": "陈勺味觉",
+    "value": "失咸，酸甜辣尚存",
+    "fromChapter": 2
+  },
+  {
+    "key": "黄泉盐",
+    "value": "剩个底",
+    "fromChapter": 2
+  },
+  {
+    "key": "油",
+    "value": "剩不多",
+    "fromChapter": 2
+  },
+  {
+    "key": "土豆",
+    "value": "3个",
+    "fromChapter": 2
+  },
+  {
+    "key": "青椒",
+    "value": "若干（蔫了半边）",
+    "fromChapter": 2
+  },
+  {
+    "key": "陈勺舌头空缺位置",
+    "value": "咸、甜两处",
+    "unit": "处",
+    "fromChapter": 3
+  },
+  {
+    "key": "陈勺怀里饼边角",
+    "value": "1",
+    "unit": "块",
+    "fromChapter": 3
+  },
+  {
+    "key": "本轮亡魂数",
+    "value": "3",
+    "unit": "名",
+    "fromChapter": 4
+  },
+  {
+    "key": "更漏格数",
+    "value": "4",
+    "unit": "格满",
+    "fromChapter": 4
+  },
+  {
+    "key": "剩余天数",
+    "value": "3",
+    "unit": "天",
+    "fromChapter": 4
+  },
+  {
+    "key": "在场亡魂",
+    "value": "3",
+    "unit": "个",
+    "fromChapter": 5
+  },
+  {
+    "key": "铜钥匙",
+    "value": "1",
+    "unit": "串",
+    "fromChapter": 5
+  },
+  {
+    "key": "盐包",
+    "value": "1",
+    "unit": "包",
+    "fromChapter": 5
+  },
+  {
+    "key": "陈勺味觉剩余",
+    "value": "咸甜酸均失，苦亦尝不出",
+    "unit": "项",
+    "fromChapter": 6
+  },
+  {
+    "key": "陈勺铜钥匙",
+    "value": "1",
+    "unit": "把",
+    "fromChapter": 6
+  },
+  {
+    "key": "擂台轮次",
+    "value": "第六轮已过",
+    "unit": "轮",
+    "fromChapter": 6
+  },
+  {
+    "key": "剩余天数",
+    "value": "3",
+    "unit": "天",
+    "fromChapter": 7
+  },
+  {
+    "key": "更漏格数上限",
+    "value": "7",
+    "unit": "格",
+    "fromChapter": 7
+  },
+  {
+    "key": "当前轮次",
+    "value": "6",
+    "unit": "轮",
+    "fromChapter": 7
+  },
+  {
+    "key": "更漏第六格",
+    "value": "满",
+    "unit": "格",
+    "fromChapter": 8
+  },
+  {
+    "key": "更漏第七格",
+    "value": "半指深",
+    "unit": "水",
+    "fromChapter": 8
+  },
+  {
+    "key": "陈勺赢的轮数",
+    "value": "0",
+    "unit": "轮",
+    "fromChapter": 9
+  },
+  {
+    "key": "已进行轮数",
+    "value": "7",
+    "unit": "轮",
+    "fromChapter": 9
+  },
+  {
+    "key": "陈勺抽到的签数",
+    "value": "6",
+    "unit": "根",
+    "fromChapter": 9
+  },
+  {
+    "key": "炎圭签状态",
+    "value": "作废",
+    "unit": "无",
+    "fromChapter": 9
+  },
+  {
+    "key": "肋排",
+    "value": "0",
+    "unit": "根",
+    "fromChapter": 10
+  },
+  {
+    "key": "冰糖",
+    "value": "小半块",
+    "unit": "块",
+    "fromChapter": 10
+  },
+  {
+    "key": "醋",
+    "value": "够做一回",
+    "unit": "份",
+    "fromChapter": 10
+  },
+  {
+    "key": "盘中剩排骨",
+    "value": "0",
+    "unit": "块",
+    "fromChapter": 10
+  },
+  {
+    "key": "火柴",
+    "value": "3",
+    "unit": "根",
+    "fromChapter": 11
+  },
+  {
+    "key": "试做遍数",
+    "value": "10",
+    "unit": "遍",
+    "fromChapter": 11
+  },
+  {
+    "key": "留盘数",
+    "value": "1",
+    "unit": "盘",
+    "fromChapter": 11
+  },
+  {
+    "key": "蓝边碗排骨",
+    "value": "1",
+    "unit": "块",
+    "fromChapter": 11
+  },
+  {
+    "key": "盐罐数",
+    "value": "2",
+    "unit": "个",
+    "fromChapter": 12
+  },
+  {
+    "key": "灶上排骨碟",
+    "value": "1",
+    "unit": "碟",
+    "fromChapter": 12
+  },
+  {
+    "key": "老单记盐本",
+    "value": "7",
+    "unit": "本",
+    "fromChapter": 12
+  }
+]
